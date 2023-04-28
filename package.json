@@ -1,0 +1,19 @@
+{
+  "name": "fotoley-backend",
+  "version": "1.0.0",
+  "description": "This repository contains the backend API for a task management application. The APIs have been tested using Postman.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajy philip",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.5",
+    "node": "^19.8.1"
+  }
+}
