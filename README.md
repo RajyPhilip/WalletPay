@@ -1,7 +1,10 @@
 
-# PayMate
-This is a wallet application that allows users to send and receive money from other users, as well as view their transaction history and wallet balance.
+# WalletPay
+This is a wallet application that allows users to send and receive money from other users, as well as view their transaction history and wallet balance. Tested using postman video link below .
 
+## Video Link 
+
+- https://www.youtube.com/watch?v=vGkcbq3eYgU
 
 ## Feautures
 
@@ -36,9 +39,7 @@ Database: MongoDB
 - Install dependencies by running npm install
 - Start the server by running npm start
 
-## Video Link 
 
-- https://www.youtube.com/watch?v=vGkcbq3eYgU
 
 ## Author
 
